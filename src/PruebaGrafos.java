@@ -92,7 +92,7 @@ public class PruebaGrafos {
 						grafo.recorrerAnchura(grafo, verticeInicio);
 						System.out.println();
 					} catch (Exception e) {
-						System.out.println("*Error al recorrer el grafo, ingrese un vertice valido.");
+						System.out.println("   *Error al recorrer el grafo, ingrese un vertice valido.");
 					}
 					System.out.println();
 					System.out.println();
@@ -103,7 +103,7 @@ public class PruebaGrafos {
 		    	}
 		    }
 		    else{
-		    	System.out.println("*"+opcion+" no es una opcion valida, intenta otra vez.");
+		    	System.out.println("   *"+opcion+" no es una opcion valida, intenta otra vez.");
 				System.out.println();
 				System.out.println();
 		    }
