@@ -100,6 +100,7 @@ public class GrafoMatriz{
         return m;
 	}
 	
+	/*
 	static public int[] recorrerProf(GrafoAdcia g, String org) throws Exception {
 		int CLAVE =-1;
 		int v, w;
@@ -137,6 +138,7 @@ public class GrafoMatriz{
 	    }
 	    return m;
 	}
+	*/
 	
 	public boolean verificarinIcializacion(){
 		if(verts.length>0)
