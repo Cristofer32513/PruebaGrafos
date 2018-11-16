@@ -58,9 +58,9 @@ public class PruebaGrafos {
 					System.out.println();
 					try {
 						grafo.nuevoArco(verticeOrigen, verticeDestino);
-						System.out.println("Arco agregado correctamente.");
+						System.out.println("   Arco agregado correctamente.");
 					}catch (Exception e) {
-						System.out.println("*Error al agregar el arco, ambos vertices deben ser validos.");
+						System.out.println("   *Error al agregar el arco, ambos vertices deben ser validos.");
 					}
 					System.out.println();
 					System.out.println();
