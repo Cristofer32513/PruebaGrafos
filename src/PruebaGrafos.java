@@ -39,13 +39,13 @@ public class PruebaGrafos {
 							grafo.nuevoVertice(nombre);
 							System.out.println();
 							System.out.println();
-							System.out.println("Vertice agregado correctamente.");
+							System.out.println("   Vertice agregado correctamente.");
 			    		}
 			    		else
-			    			System.out.println("*Se ha alcanzado el maximo de vertices a ingresar");
+			    			System.out.println("   *Se ha alcanzado el maximo de vertices a ingresar");
 			    	}
 			    	else
-			    		System.out.println("*El grafo no ha sido inicializado");
+			    		System.out.println("   *El grafo no ha sido inicializado");
 					System.out.println();
 					System.out.println();
 					break;
