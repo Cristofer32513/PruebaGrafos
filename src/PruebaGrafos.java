@@ -74,11 +74,11 @@ public class PruebaGrafos {
 					System.out.println();
 					try {
 						if(grafo.adyacente(vertice1, vertice2))
-							System.out.println("Los vertices si son adyacentes.");
+							System.out.println("   Los vertices si son adyacentes.");
 						else
-							System.out.println("Los vertices no son adyacentes.");
+							System.out.println("   Los vertices no son adyacentes.");
 					} catch (Exception e) {
-						System.out.println("*Error al verificar adyacencia, ambos vertices deben ser validos.");
+						System.out.println("   *Error al verificar adyacencia, ambos vertices deben ser validos.");
 					}
 					System.out.println();
 					System.out.println();
