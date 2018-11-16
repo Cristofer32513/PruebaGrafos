@@ -1,4 +1,5 @@
 public class Lista {
+	/*
 	//Atributos
 	private Nodo primero;
 	
@@ -20,4 +21,5 @@ public class Lista {
 	    while (x != -1);
 	    return this;
     }
+    */
 }
