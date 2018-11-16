@@ -89,6 +89,7 @@ public class PruebaGrafos {
 					System.out.println();
 					System.out.println();
 					try {
+						System.out.print("   ");
 						grafo.recorrerAnchura(grafo, verticeInicio);
 					} catch (Exception e) {
 						System.out.println("   *Error al recorrer el grafo, ingrese un vertice valido.");
