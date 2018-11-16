@@ -1,4 +1,5 @@
 public class ListaIterador {
+	/*
 	//Atributos
 	private Nodo prm, actual;
 	
@@ -20,4 +21,5 @@ public class ListaIterador {
 	public void inicIter(){
 		actual = prm;
 	}
+	*/
 }
